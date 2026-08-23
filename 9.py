@@ -1,3 +1,7 @@
+B MURALI PRASAD
+KUB25EEE610
+DATE : 23/08/2026
+
 # ==========================================
 # Student Record Management System
 # Features: Add, View, Search, Update, Delete
