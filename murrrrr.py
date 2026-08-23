@@ -1,3 +1,7 @@
+B MURALI PRASAD
+KUB25EEE610
+DATE : 23/08/2026
+
 def simple_chatbot():
     print("Chatbot: Hello! I am your assistant. Ask me anything or type 'exit' to quit.\n")
     
